@@ -30,7 +30,7 @@ gcc main.c -lncurses
 ## Running
 
 ```sh
-./a.out
+./snake
 ```
 
 ### Controls
